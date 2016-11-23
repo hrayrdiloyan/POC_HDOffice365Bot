@@ -1,0 +1,39 @@
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Bot Application1.dll.config
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Bot Application1.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Bot Application1.pdb
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Autofac.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Chronic.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.Bot.Builder.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.Bot.Connector.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Newtonsoft.Json.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\System.Net.Http.Formatting.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\System.Web.Http.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\System.Web.Http.WebHost.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Autofac.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.Bot.Builder.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.Bot.Connector.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\Newtonsoft.Json.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\System.Net.Http.Formatting.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\System.Web.Http.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\System.Web.Http.WebHost.xml
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\obj\Debug\Bot Application1.dll
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\obj\Debug\Bot Application1.pdb
+C:\TFS-HD\HDOffice365Bot\HDOffice365Bot\obj\Debug\HDOffice365Bot.csprojResolveAssemblyReference.cache
