@@ -2,7 +2,7 @@
 namespace HDOffice365Bot
 {
     /// <summary>
-    ///  Represents C# classes for post payload of cognitive services
+    ///  Represents C# classes for post payload of cognitive services.
     /// </summary>
     public class Document
     {
