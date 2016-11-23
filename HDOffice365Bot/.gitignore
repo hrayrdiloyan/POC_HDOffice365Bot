@@ -1,2 +1,5 @@
-bin/
-packages/
+bin
+obj
+packages/*
+packages
+packages*/

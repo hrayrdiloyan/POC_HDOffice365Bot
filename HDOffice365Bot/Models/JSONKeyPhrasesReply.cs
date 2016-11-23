@@ -5,6 +5,9 @@ using System.Web;
 
 namespace HDOffice365Bot
 {
+    /// <summary>
+    /// Represents class for the reply from MS cognitive services
+    /// </summary>
     public class DocumentReturn
     {
         public List<string> keyPhrases { get; set; }

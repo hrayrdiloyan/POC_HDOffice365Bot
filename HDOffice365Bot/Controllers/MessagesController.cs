@@ -66,6 +66,7 @@ namespace HDOffice365Bot
                     lstButtons.Add(actionSPSite2);
                     card.Buttons = lstButtons;
 
+                    // Reply to the message
                     Activity reply = activity.CreateReply(replyMessage.ToString());
                     reply.Attachments = new List<Attachment>();
                     reply.Attachments.Add(card.ToAttachment());
