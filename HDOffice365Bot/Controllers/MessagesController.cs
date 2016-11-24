@@ -76,7 +76,7 @@ namespace HDOffice365Bot
                 else
                 {
                     // If attachment is missing, give a notice via email
-                    Activity reply = activity.CreateReply("Bot couldn't find any attachment to process");
+                    Activity reply = activity.CreateReply("Bot couldn't find any attachment to process.Please make sure your email has txt attachment.");
                     await connector.Conversations.ReplyToActivityAsync(reply);
                 }
 
